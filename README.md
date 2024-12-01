@@ -84,6 +84,3 @@ If you use our work, please cite:
   url={https://ceur-ws.org/Vol-3497/paper-081.pdf}
 }
 ```
-
-## Maintainer
-- [Muhammed S. Abdo](https://www.linkedin.com/in/muhsabrys/)
