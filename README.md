@@ -1,7 +1,7 @@
 # IUEXIST: Multilingual Pre-trained Language Models for Sexism Detection on Twitter in EXIST 2023
 
 ## Overview
-This repository contains the code and resources for our paper: ["IUEXIST: Multilingual Pre-trained Language Models for Sexism Detection on Twitter in EXIST2023"](https://ceur-ws.org/Vol-3497/paper-081.pdf). Our work describes an approach to detect sexism in tweets as part of Task 1 of the EXIST 2023 shared task on sexism identification. The dataset includes English and Spanish tweets, and the task involves binary classification to determine whether a given tweet contains sexist expressions or behaviors.
+This repository contains the code and resources for our paper: ["IUEXIST: Multilingual Pre-trained Language Models for Sexism Detection on Twitter in EXIST2023"](https://ceur-ws.org/Vol-3497/paper-081.pdf). Our work describes an approach to detect sexism in tweets as part of Task 1 of the ["EXIST 2023 shared task on sexism identification"](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_68) . The dataset includes English and Spanish tweets, and the task involves binary classification to determine whether a given tweet contains sexist expressions or behaviors.
 
 ## Abstract
 We explored various machine learning algorithms, including:
